@@ -5,13 +5,18 @@ T = int(input())
 
 def bisearch(end,key):
     start = 1
+    end = 0
+    while True:
+        middle =
+
+def bisearch(end,key):
+    start = 1
     cnt = 0
     while start <= end :
         middle = int((start+end)/2)
         cnt += 1
         if middle == key:
             return cnt
-            break
         elif middle > key:
             end = middle
         elif middle < key:
