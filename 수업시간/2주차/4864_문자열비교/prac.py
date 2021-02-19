@@ -1,7 +1,5 @@
-card = '49679'
-
-for i in range(len(card)):
-    print(i)
+aa = [1, 1, 1, 0, 1]
+print(aa[1,2])
 
 
 
