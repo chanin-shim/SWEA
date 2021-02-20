@@ -1,115 +1,34 @@
 import sys
 sys.stdin = open("input.txt")
 
-def min_search():
-    #초기화
-    min_value = 987654321
-    min_idx = -1
+for tc in range(1, 11):
+    dump_number = int(input())
+    # print(dump_number)
+    # 834
+    box_height_list = list(map(int,input().split()))
+    # print(box_height_list)
+    # [42, 68, 35, 1, 70, 25, 79, 59, 63, 65, 6, 46, 82, 28, 62, 92, 96, 43, 28, 37, 92, 5, 3, 54, 93, 83, 22, 17, 19, 96, 48, 27, 72, 39, 70, 13, 68, 100, 36, 95, 4, 12, 23, 34, 74, 65, 42, 12, 54, 69, 48, 45, 63, 58, 38, 60, 24, 42, 30, 79, 17, 36, 91, 43, 89, 7, 41, 43, 65, 49, 47, 6, 91, 30, 71, 51, 7, 2, 94, 49, 30, 24, 85, 55, 57, 41, 67, 77, 32, 9, 45, 40, 27, 24, 38, 39, 19, 83, 30, 42]
 
-    # 최저 높이를 찾자.
-    for i in range(len(box)):
-        if box[i] < min_value:
-            min_value = box[i]
-            min_idx = i
+    cnt = 0
+    while cnt< dump_number:
+        cnt +=1
+        for i in range((len(box_height_list))-1,-1,-1):
+            for j in range(0,i):
+                if box_height_list[j] > box_height_list[j+1]:
+                    box_height_list[j],box_height_list[j+1] = box_height_list[j+1], box_height_list[j]
+        box_height_list[0] += 1
+        box_height_list[len(box_height_list)-1] -= 1
 
-    return mix_idx
+    max_num = 0
+    min_num = box_height_list[0]
+    for i in box_height_list:
+        if i > max_num:
+            max_num = i
+        if i < min_num:
+            min_num = i
 
-def max_search():
-    max_value = 0
-    max_idx = -1
-
-    for i in range(len(box)):
-        if box[i] > max_value:
-            max_value = box[i]
-            max_idx = i
-
-    return max_idx
-
-
-for tc in range(1, T+1):
-    #N = 덤프횟수
-    N = int(input())
-    T = int(input())
-
-    # 박스들
-    box = list(map(int, input().split()))
-
-    # N번덤프하기
-    for i in range(N):
-        #최고 높이 상자 한칸 내리기
-        box[max_search()] -= 1
-        #최저 상자 높이 한칸 올리기
-        box[min_search()] += 1
-
-    print("#{} {}".format(tc, box[max_search()] - box[min_search()]))
-
-########################################################################################################################
-
-def bubble_sort(arr):
-    for i in range(len(arr)-1,0,-1):
-        for j in range(0,i):
-            if arr [j] > arr[j+1]:
-                arr[j], arr[]j+1 = arr{j+1], arr[j]
-
-
-for tc in range(1,11):
-    N = int(input())
-    box = list(map(int, input().split()))
-
-    for i in range(N):
-        bubble_sort(box)
-        box[0] += 1
-        box[-1] -= 1
-
-    bubble_sort(box)
-
-    print("#{} {}".format(tc, ))
-
-
-########################################################################################################################
-
-for tc in range(1,11):
-    N = int(input())
-    box = list(map(int, input().split()))
-
-    #높이 카운트
-    h_cnt = [0] * 101
-
-    #초기화
-    min_value = 100
-    max_value = 1
-
-    # 박스 높이를 카운트하면서 최고점과 최저점 찾아보자
-    for i in range(100):
-        h_cnt[box[i]] += 1
-        if box[i] > max_value:
-            max_value = box[i]
-        if box[i] < min_value:
-            min_value = box[i]
-
-    while N > 0 and min_value-1:
-        h_cnt[min_value] -= 1
-        h_cnt[min_value+1] += 1
-
-        h_cnt[max_value] -= 1
-        h_cnt[max_value-1] += 1
-
-        if h_cnt[min_value] == 0:
-            min_value += 1
-        if h_cnt[max_value] == 0:
-            max_value -= 1
-
-        # 덤프 줄이기
-        N -= 1
+    ans = max_num - min_num
 
 
 
-
-
-
-
-
-
-
-
-
+    print("#{} {}".format(tc,ans))
