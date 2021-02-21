@@ -12,6 +12,15 @@ for i in range(len(arr)):
 else: # break 걸려야 출력되는 문. 안걸리면 출력안됨.
     print("못찾음.")
 
+for i in range(len(arr)):
+    if arr[i] == key:
+        print(i,"에 위치하고 있음")
+
+for i in range(len(arr)):
+    if arr[i] == key:
+        print(i,"찾음")
+    elif arr[i] > key:
+
 
 # 정렬 되지 않은 것
 
