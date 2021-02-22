@@ -1,0 +1,46 @@
+# 재귀호출
+
+n = 10
+
+def fibo(n):
+    arr[n] += 1  # 호출횟수를 부른거임
+    if n < 2:
+        return n
+    else:
+        return fibo(n - 1) + fibo(n - 2)
+
+
+# 호출회수
+arr = [0] * 35
+
+print(fibo(n))
+print(arr)
+
+# 너무 중복이 되니까 기록을 해 놓자!
+# -> 그것이 바로 memoization
+# 이전에 계산한 값을 메모리에 저장해서 전체적인 실행속도를 빠르게 하는 기술이다.
+
+# 메모이제이션
+def fibo1(n):
+    if n>=2 and len(memo)<=n: #이 조건에 위배되면, 이미 값이 구해져있다.
+        memo.append(fibo1(n-1)+fibo1(n-2))
+    return memo[n]
+
+memo = [0.1]
+
+print(fibo1(40))
+
+#######
+#메모이제이션 2
+memo2 = [-1] * 21
+memo2[0] = 0
+memo2[1] = 1
+
+def fibo2(n):
+    if memo2[n] == -1 : # 기본값이면, 즉 값이 안변한상태면
+        memo2[n] = fibo2(n-1) + fibo2(n-2)
+
+    return memo2[n]
+
+print(fibo2(10))
+print(memo2)

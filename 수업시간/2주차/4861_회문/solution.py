@@ -11,12 +11,12 @@ def my_reverse(line):
 
 def my_find():
     #전체크기가 N
-    for i in range(N):
+    for i in range(N): # 0~9
         #가로검사
-        for j in range(N-M+1):
+        for j in range(N-M+1): # 1
             #부분 문자열을 위한 빈리스트
             tmp = []
-            for k in range(M):
+            for k in range(M): # 0~9
                 tmp.append(words[i][j+k])
 
             #회문 검사
@@ -44,8 +44,4 @@ for tc in range(1, T+1):
     words = [list(input()) for _ in range(N)]
 
 
-    ans = my_find()
-    # print(ans)
-    # ['J', 'A', 'E', 'Z', 'N', 'N', 'Z', 'E', 'A', 'J']
-
-    print("{} {}".format(tc,''.join(ans)))
+    # print("{} {}".format(tc,''.join(ans)))
