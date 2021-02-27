@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdde0880-1486-4717-8ef9-b39481f193de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/수업시간/2주차/1954_달팽이숫자/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/수업시간/2주차/1954_달팽이숫자/sol1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/수업시간/3주차/보충_기지국/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/수업시간/3주차/보충_기지국/input.txt" afterDir="false" />
-    </list>
+    <list default="true" id="cdde0880-1486-4717-8ef9-b39481f193de" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +12,7 @@
     <session id="511811900">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="2" />
@@ -25,38 +21,39 @@
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="py" value="244" />
-          <entry key="txt" value="48" />
+          <entry key="py" value="245" />
+          <entry key="txt" value="49" />
           <entry key="재귀(피보나치)" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="PLAIN_TEXT" value="48" />
-          <entry key="Python" value="246" />
+          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="Python" value="247" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="74578" />
-          <entry key="txt" value="98" />
+          <entry key="py" value="75096" />
+          <entry key="txt" value="99" />
           <entry key="재귀(피보나치)" value="496" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="98" />
-          <entry key="Python" value="75074" />
+          <entry key="PLAIN_TEXT" value="99" />
+          <entry key="Python" value="75592" />
         </counts>
       </usages-collector>
     </session>
@@ -65,7 +62,35 @@
     <favorites_list name="알고리즘" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/d2/1976_시각덧셈/sol1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d2/1976_시각덧셈/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="308" selection-start-line="308" selection-end-line="308" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,8 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/수업시간/2주차/회문2/sol1.py" />
-        <option value="$PROJECT_DIR$/수업시간/3주차/스택체크.py" />
         <option value="$PROJECT_DIR$/수업시간/3주차/재귀(피보나치)" />
         <option value="$PROJECT_DIR$/d3/오목판정/so1.py" />
         <option value="$PROJECT_DIR$/d3/4047_영준이의카드카운팅/input.txt" />
@@ -131,14 +154,16 @@
         <option value="$PROJECT_DIR$/수업시간/2주차/2001_파리퇴치/sol1.py" />
         <option value="$PROJECT_DIR$/수업시간/2주차/1954_달팽이숫자/sol1.py" />
         <option value="$PROJECT_DIR$/수업시간/2주차/1954_달팽이숫자/sol2.py" />
+        <option value="$PROJECT_DIR$/d2/1976_시각덧셈/input.txt" />
+        <option value="$PROJECT_DIR$/d2/1976_시각덧셈/sol1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="x" value="1827" />
+    <option name="y" value="34" />
+    <option name="width" value="1552" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -148,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,11 +181,21 @@
               <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
+              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
+              <item name="d2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
+              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
+              <item name="d2" type="462c0819:PsiDirectoryNode" />
+              <item name="1976_시각덧셈" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sol2 (2)">
+  <component name="RunManager" selected="Python.sol1 (2)">
     <configuration name="sol1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,6 +234,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업시간/2주차/1954_달팽이숫자/sol1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sol1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d2/1976_시각덧셈" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d2/1976_시각덧셈/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,41 +326,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업시간/3주차/보충_기지국" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업시간/3주차/보충_기지국/sol2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.sol2" />
       <item itemvalue="Python.sol1" />
       <item itemvalue="Python.sol2 (1)" />
       <item itemvalue="Python.sol1 (1)" />
       <item itemvalue="Python.sol2 (2)" />
+      <item itemvalue="Python.sol1 (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sol1 (2)" />
         <item itemvalue="Python.sol2 (2)" />
         <item itemvalue="Python.sol1 (1)" />
         <item itemvalue="Python.sol2 (1)" />
         <item itemvalue="Python.sol1" />
-        <item itemvalue="Python.sol2" />
       </list>
     </recent_temporary>
   </component>
@@ -321,9 +357,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18836749" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15015806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32980832" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -422,6 +459,11 @@
           <line>45</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/d2/1976_시각덧셈/sol1.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -429,23 +471,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/수업시간/3주차/팩토리얼.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3/3499_퍼펙트셔플/solution.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/수업시간/3주차/4873_반복문자지우기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/수업시간/3주차/fuctioncall.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -757,6 +782,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d2/1976_시각덧셈/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d2/1976_시각덧셈/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
