@@ -27,6 +27,7 @@ for tc in range(1, T + 1):
 
     while stack: # 하나라도 스택에 있다면 반복해라
         now = stack.pop()
+        # 방문한경우
         if visited[now]: #0이면 방문을 안했다는 거고, 1이면 방문을 했다는 거임
             pass
         #방문하지 않은경우
@@ -38,7 +39,7 @@ for tc in range(1, T + 1):
                 if not visited[v]:
                     stack.append(v)
 
-    for i in visited[S]:
+    result = 1 if visited[G] else 0
 
 
 
