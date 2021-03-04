@@ -43,4 +43,4 @@ for tc in range(1, T + 1):
 
 
 
-    print("#{} {}".format(tc,ans))
+    print("#{} {}".format(tc,result))
