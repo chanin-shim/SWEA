@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdde0880-1486-4717-8ef9-b39481f193de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cdde0880-1486-4717-8ef9-b39481f193de" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <session id="511811900">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="2" />
@@ -34,7 +32,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="py" value="293" />
+          <entry key="py" value="294" />
           <entry key="txt" value="56" />
           <entry key="재귀(피보나치)" value="2" />
         </counts>
@@ -43,7 +41,7 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="56" />
-          <entry key="Python" value="295" />
+          <entry key="Python" value="296" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -108,7 +106,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/solution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
@@ -117,6 +115,15 @@
                 <marker date="1614926392232" expanded="true" signature="83:88" ph="..." />
                 <marker date="1614926392232" expanded="true" signature="835:839" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/수업시간/4주차/6019_기차사이의파리/sol1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="37" column="28" lean-forward="true" selection-end-line="49" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -211,11 +218,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -247,6 +254,13 @@
               <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
               <item name="수업시간" type="462c0819:PsiDirectoryNode" />
+              <item name="3주차" type="462c0819:PsiDirectoryNode" />
+              <item name="파스칼의삼각형" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
+              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
+              <item name="수업시간" type="462c0819:PsiDirectoryNode" />
               <item name="4주차" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -255,6 +269,13 @@
               <item name="수업시간" type="462c0819:PsiDirectoryNode" />
               <item name="4주차" type="462c0819:PsiDirectoryNode" />
               <item name="5105_미로의거리" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
+              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
+              <item name="수업시간" type="462c0819:PsiDirectoryNode" />
+              <item name="4주차" type="462c0819:PsiDirectoryNode" />
+              <item name="6019_기차사이의파리" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -422,10 +443,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15015806" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18836749" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32980832" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -652,13 +672,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/수업시간/4주차/6019_기차사이의파리/s_input.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/수업시간/4주차/6019_기차사이의파리/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/수업시간/3주차/4866_괄호검사/input.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -924,6 +937,13 @@
             <marker date="1614926392232" expanded="true" signature="83:88" ph="..." />
             <marker date="1614926392232" expanded="true" signature="835:839" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수업시간/4주차/6019_기차사이의파리/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="37" column="28" lean-forward="true" selection-end-line="49" selection-end-column="43" />
         </state>
       </provider>
     </entry>
