@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdde0880-1486-4717-8ef9-b39481f193de" name="Default Changelist" comment="" />
+    <list default="true" id="cdde0880-1486-4717-8ef9-b39481f193de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2/1983_ 조교의 성적 매기기/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2/1983_ 조교의 성적 매기기/sol1.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,28 +28,28 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="py" value="294" />
-          <entry key="txt" value="56" />
+          <entry key="py" value="296" />
+          <entry key="txt" value="57" />
           <entry key="재귀(피보나치)" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="PLAIN_TEXT" value="56" />
-          <entry key="Python" value="296" />
+          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="Python" value="298" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="89407" />
+          <entry key="py" value="89815" />
           <entry key="txt" value="99" />
           <entry key="재귀(피보나치)" value="496" />
         </counts>
@@ -54,7 +57,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="99" />
-          <entry key="Python" value="89903" />
+          <entry key="Python" value="90311" />
         </counts>
       </usages-collector>
     </session>
@@ -65,85 +68,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/수업시간/4주차/1226_미로1/solution.py">
+        <entry file="file://$PROJECT_DIR$/수업시간/4주차/6019_기차사이의파리/sol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-              <folding>
-                <marker date="1614911116799" expanded="true" signature="102:547" ph="..." />
-              </folding>
+            <state relative-caret-position="368">
+              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/수업시간/4주차/1226_미로1/sol1.py">
+        <entry file="file://$PROJECT_DIR$/d2/1983_ 조교의 성적 매기기/sol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/수업시간/4주차/1226_미로1/sol3 practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-              <folding>
-                <marker date="1614916268365" expanded="true" signature="64:451" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/sol1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="12" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <marker date="1614926392232" expanded="true" signature="83:88" ph="..." />
-                <marker date="1614926392232" expanded="true" signature="835:839" ph="..." />
-              </folding>
+            <state relative-caret-position="350">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/수업시간/4주차/6019_기차사이의파리/sol1.py">
+        <entry file="file://$PROJECT_DIR$/d3/1217_거듭제곱/sol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="37" column="28" lean-forward="true" selection-end-line="49" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/sol 2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/수업시간/4주차/1258_행렬찾기/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            <state relative-caret-position="100">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <marker date="1614923282736" expanded="true" signature="727:730" ph="..." />
+                <marker date="1615125368343" expanded="true" signature="169:170" ph="..." />
               </folding>
             </state>
           </provider>
@@ -164,8 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/수업시간/3주차/1974_스도쿠검증/sol1.py" />
-        <option value="$PROJECT_DIR$/d2/1859_백만장자프로젝트/input.txt" />
         <option value="$PROJECT_DIR$/d2/1859_백만장자프로젝트/sol1.py" />
         <option value="$PROJECT_DIR$/수업시간/3주차/1860_진기의최고급붕어빵/sol1.py" />
         <option value="$PROJECT_DIR$/d2/1859_백만장자프로젝트/solution.py" />
@@ -215,14 +161,16 @@
         <option value="$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/sol3.py" />
         <option value="$PROJECT_DIR$/수업시간/4주차/1258_행렬찾기/solution.py" />
         <option value="$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/solution.py" />
+        <option value="$PROJECT_DIR$/d2/1983_ 조교의 성적 매기기/sol1.py" />
+        <option value="$PROJECT_DIR$/d3/1217_거듭제곱/sol1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="x" value="2014" />
+    <option name="y" value="1" />
+    <option name="width" value="1551" />
+    <option name="height" value="879" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -242,40 +190,18 @@
             <path>
               <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="수업시간" type="462c0819:PsiDirectoryNode" />
+              <item name="d3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
+              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
+              <item name="d3" type="462c0819:PsiDirectoryNode" />
+              <item name="1217_거듭제곱" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
               <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
               <item name="수업시간" type="462c0819:PsiDirectoryNode" />
-              <item name="3주차" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="수업시간" type="462c0819:PsiDirectoryNode" />
-              <item name="3주차" type="462c0819:PsiDirectoryNode" />
-              <item name="파스칼의삼각형" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="수업시간" type="462c0819:PsiDirectoryNode" />
-              <item name="4주차" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="수업시간" type="462c0819:PsiDirectoryNode" />
-              <item name="4주차" type="462c0819:PsiDirectoryNode" />
-              <item name="5105_미로의거리" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="알고리즘" type="b2602c69:ProjectViewProjectNode" />
-              <item name="알고리즘" type="462c0819:PsiDirectoryNode" />
-              <item name="수업시간" type="462c0819:PsiDirectoryNode" />
-              <item name="4주차" type="462c0819:PsiDirectoryNode" />
-              <item name="6019_기차사이의파리" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution (1)">
+  <component name="RunManager" selected="Python.sol1 (2)">
     <configuration name="sol 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -320,6 +246,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/sol 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sol1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d2/1983_ 조교의 성적 매기기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d2/1983_ 조교의 성적 매기기/sol1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sol1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d3/1217_거듭제곱" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3/1217_거듭제곱/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,27 +317,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol3 practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업시간/4주차/1226_미로1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업시간/4주차/1226_미로1/sol3 practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -391,41 +338,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수업시간/4주차/1226_미로1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수업시간/4주차/1226_미로1/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.solution" />
-      <item itemvalue="Python.sol3 practice" />
       <item itemvalue="Python.sol1" />
       <item itemvalue="Python.sol 2" />
       <item itemvalue="Python.solution (1)" />
+      <item itemvalue="Python.sol1 (1)" />
+      <item itemvalue="Python.sol1 (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sol1 (2)" />
+        <item itemvalue="Python.sol1 (1)" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.sol 2" />
         <item itemvalue="Python.sol1" />
-        <item itemvalue="Python.sol3 practice" />
-        <item itemvalue="Python.solution" />
       </list>
     </recent_temporary>
   </component>
@@ -443,14 +369,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18836749" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15015806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32980832" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19631237" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19631237" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -586,27 +513,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/수업시간/2주차/1954_달팽이숫자/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/수업시간/3주차/보충_기지국/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2/1976_시각덧셈/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d2/1961_숫자배열회전/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -878,20 +784,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/수업시간/4주차/1226_미로1/solution.py">
+    <entry file="file://$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="275">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
-            <marker date="1614911116799" expanded="true" signature="102:547" ph="..." />
+            <marker date="1614926392232" expanded="true" signature="83:88" ph="..." />
+            <marker date="1614926392232" expanded="true" signature="835:839" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/수업시간/4주차/1226_미로1/sol1.py">
+    <entry file="file://$PROJECT_DIR$/d2/1983_ 조교의 성적 매기기/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="5" selection-end-column="24" />
+          <caret selection-end-line="12" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -905,10 +815,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/sol1.py">
+    <entry file="file://$PROJECT_DIR$/수업시간/4주차/1226_미로1/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="12" selection-end-column="56" />
+          <caret selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수업시간/4주차/1226_미로1/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <marker date="1614911116799" expanded="true" signature="102:547" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수업시간/4주차/6019_기차사이의파리/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수업시간/4주차/1258_행렬찾기/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding>
+            <marker date="1614923282736" expanded="true" signature="727:730" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -919,31 +856,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/수업시간/4주차/1258_행렬찾기/solution.py">
+    <entry file="file://$PROJECT_DIR$/d2/1983_ 조교의 성적 매기기/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding>
-            <marker date="1614923282736" expanded="true" signature="727:730" ph="..." />
-          </folding>
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/수업시간/4주차/4613_러시아국기같은깃발/solution.py">
+    <entry file="file://$PROJECT_DIR$/d3/1217_거듭제곱/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <marker date="1614926392232" expanded="true" signature="83:88" ph="..." />
-            <marker date="1614926392232" expanded="true" signature="835:839" ph="..." />
+            <marker date="1615125368343" expanded="true" signature="169:170" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/수업시간/4주차/6019_기차사이의파리/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="37" column="28" lean-forward="true" selection-end-line="49" selection-end-column="43" />
         </state>
       </provider>
     </entry>
