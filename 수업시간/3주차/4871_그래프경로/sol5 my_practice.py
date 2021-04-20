@@ -29,4 +29,4 @@ for tc in range(1, T + 1):
                     queue.append(v)
     result = 1 if visited[G] else 0
 
-    print(result)
+    print(edge_list)
