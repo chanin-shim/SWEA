@@ -33,7 +33,7 @@ for tc in range(1, T+1):
             if my_list[-1] == '/':
                 my_list.pop()
                 if len(stack) >= 2:
-                    stack.append(stack.pop() / stack.pop())
+                    stack.append(int(stack.pop() / stack.pop()))
                 else:
                     result2 = 'error'
             if my_list[-1] == '-':
